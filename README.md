@@ -6,10 +6,10 @@ tags:
 aliases:
   - MMO Design Vault
 related:
-  - "[[01-visao/Visao-do-Jogo]]"
-  - "[[01-visao/Principios-de-Design]]"
-  - "[[02-game-design/Core-Loop]]"
-  - "[[03-squads/Squad-Living-Economy]]"
+  - "[[docs/01-visao/Visao-do-Jogo]]"
+  - "[[docs/01-visao/Principios-de-Design]]"
+  - "[[docs/02-game-design/Core-Loop]]"
+  - "[[docs/03-squads/Squad-Living-Economy]]"
 status: draft
 ---
 
@@ -19,14 +19,14 @@ Este vault organiza a discussão de um MMO sandbox inspirado na essência econô
 
 ## Mapa principal
 
-- [[01-visao/Visao-do-Jogo]]
-- [[01-visao/Principios-de-Design]]
-- [[02-game-design/Core-Loop]]
-- [[02-game-design/Economia-Viva]]
-- [[02-game-design/RMT-e-Abuso-Economico]]
-- [[03-squads/Squad-Living-Economy]]
-- [[04-red-team/Red-Team-RMT-Bots-Guildas]]
-- [[05-decisoes/ADR-0001-Foco-Economico]]
+- [[docs/01-visao/Visao-do-Jogo]]
+- [[docs/01-visao/Principios-de-Design]]
+- [[docs/02-game-design/Core-Loop]]
+- [[docs/02-game-design/Economia-Viva]]
+- [[docs/02-game-design/RMT-e-Abuso-Economico]]
+- [[docs/03-squads/Squad-Living-Economy]]
+- [[docs/04-red-team/Red-Team-RMT-Bots-Guildas]]
+- [[docs/05-decisoes/ADR-0001-Foco-Economico]]
 
 ## Pergunta central
 
