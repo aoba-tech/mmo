@@ -10,8 +10,9 @@ related:
   - "[[docs/01-visao/Visao-do-Jogo]]"
   - "[[docs/01-visao/Principios-de-Design]]"
   - "[[docs/02-game-design/Core-Loop]]"
+  - "[[docs/02-game-design/Biomas-Regioes-e-Tiers]]"
+  - "[[docs/02-game-design/Piloto-Cerrado]]"
   - "[[docs/03-squads/Squad-Living-Economy]]"
-  - "[[docs/06-rouanet/00-Hub-Rouanet]]"
 status: draft
 ---
 
@@ -25,12 +26,14 @@ O projeto está na fase de definição do **piloto jogável**.
 
 O piloto deve provar a experiência central do MMO antes de tentar representar todo o mundo, toda a economia ou todos os riscos sistêmicos.
 
-## Mapa principal
+## Mapa principal — jogo
 
 - [[docs/01-visao/Visao-do-Jogo]]
 - [[docs/01-visao/Principios-de-Design]]
 - [[docs/02-game-design/Core-Loop]]
 - [[docs/02-game-design/Economia-Viva]]
+- [[docs/02-game-design/Biomas-Regioes-e-Tiers]]
+- [[docs/02-game-design/Piloto-Cerrado]]
 - [[docs/02-game-design/Durabilidade-Reparo-e-Destruicao]]
 - [[docs/02-game-design/Mercado-Negro-e-Loot]]
 - [[docs/02-game-design/Recursos-Raros-de-Mobs]]
@@ -39,12 +42,11 @@ O piloto deve provar a experiência central do MMO antes de tentar representar t
 - [[docs/04-red-team/Red-Team-RMT-Bots-Guildas]]
 - [[docs/05-decisoes/ADR-0001-Foco-Economico]]
 
-## Trilha Rouanet / cultura
+## Análises externas
 
-- [[docs/06-rouanet/00-Hub-Rouanet]]
-- [[docs/06-rouanet/01-Decision-Memo-MMO-Rouanet]]
-- [[docs/06-rouanet/02-Biomas-Regioes-e-Tiers]]
-- [[docs/06-rouanet/03-Piloto-Cerrado]]
+Análises de editais, financiamento ou enquadramento não definem o game design. Elas utilizam o projeto canônico como entrada.
+
+- [[docs/06-rouanet/00-Hub-Rouanet]] — análise independente de eventual enquadramento Rouanet.
 
 ## Pergunta central do jogo
 
