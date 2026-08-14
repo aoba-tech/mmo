@@ -10,55 +10,53 @@ tags:
   - centro-oeste
 related:
   - "[[01-Decision-Memo-MMO-Rouanet]]"
-  - "[[02-Biomas-Regioes-e-Tiers]]"
-  - "[[03-Piloto-Cerrado]]"
-  - "[[../01-visao/Visao-do-Jogo]]"
+  - "[[../02-game-design/Biomas-Regioes-e-Tiers]]"
+  - "[[../02-game-design/Piloto-Cerrado]]"
 ---
 
 # Hub Rouanet — MMO
 
-Esta área concentra a análise do MMO para eventual enquadramento cultural. Ela não altera automaticamente a visão comercial ou de produto do jogo.
+Esta área concentra **somente a análise do projeto perante a Lei Rouanet, editais, SALIC, elegibilidade, estratégia de inscrição e eventual recorte cultural financiável**.
 
-## Princípio de separação
+## Regra de separação
 
-O MMO é um projeto de game. A análise Rouanet é uma trilha de enquadramento e desenvolvimento cultural do piloto.
+> **A Rouanet não define o game design.**
 
-Não transformar o jogo inteiro em produto educativo nem inserir elementos culturais artificiais apenas para atender critério de edital.
+As definições de mundo, biomas, regiões, tiers, cidades, economia, core loop, piloto e demais sistemas pertencem ao projeto do jogo e devem existir independentemente de qualquer edital.
 
-## Hipótese cultural atual
+A análise Rouanet pode:
 
-O mundo do MMO utiliza grandes ambientes inspirados em biomas brasileiros e sul-americanos como base de worldbuilding, identidade visual, recursos, fauna, exploração e economia regional.
+- avaliar se elementos já existentes do jogo possuem aderência cultural;
+- sugerir formas de apresentação e documentação;
+- propor um recorte de projeto para inscrição;
+- identificar exigências, riscos e contrapartidas.
 
-A estrutura macro permanece simples:
+A análise Rouanet **não deve**:
 
-- Floresta — referência principal: Amazônia/Norte;
-- Cerrado — referência principal: Centro-Oeste;
-- Alagado — referência principal: Pantanal;
-- Árido — referência principal: Caatinga;
-- Frio — referência principal: Sul do Brasil + referências andinas/chilenas.
+- criar ou alterar biomas para obter aderência;
+- definir tiers;
+- determinar o core loop;
+- transformar o MMO em produto educativo;
+- inserir elementos culturais artificiais apenas para pontuação;
+- promover hipóteses de edital a decisões canônicas do jogo.
 
-Cada ambiente possui uma cidade-base e se conecta aos demais territórios do mundo.
+## Fontes canônicas do jogo
 
-## Regra estrutural
+- [[../01-visao/Visao-do-Jogo]]
+- [[../01-visao/Principios-de-Design]]
+- [[../02-game-design/Core-Loop]]
+- [[../02-game-design/Economia-Viva]]
+- [[../02-game-design/Biomas-Regioes-e-Tiers]]
+- [[../02-game-design/Piloto-Cerrado]]
 
-> Ambiente define identidade. Tier define progressão. Zona define risco.
+A trilha Rouanet **consome essas definições como entrada**. Não é sua fonte de verdade.
 
-Bioma não é tier e tier não é bioma.
+## Documentos desta trilha
 
-## Recorte do piloto
-
-Para manter escopo controlado, o piloto deve usar **Cerrado + uma cidade-base + múltiplos tiers suficientes para demonstrar progressão e economia**.
-
-Os cinco ambientes pertencem à visão do jogo completo e ajudam a demonstrar que o Cerrado faz parte de uma linguagem maior de worldbuilding.
-
-## Documentos
-
-- [[01-Decision-Memo-MMO-Rouanet]] — análise estratégica e gates.
-- [[02-Biomas-Regioes-e-Tiers]] — arquitetura ambiental do mundo.
-- [[03-Piloto-Cerrado]] — recorte jogável recomendado.
+- [[01-Decision-Memo-MMO-Rouanet]] — análise estratégica, elegibilidade e gates.
 
 ## Método
 
 **DIVERGIR → STRESS TEST → CONVERGIR**
 
-Toda proposta cultural deve passar por validação de aderência ao edital e SALIC antes de ser tratada como elegível.
+Toda proposta de enquadramento deve passar por validação do edital e SALIC antes de ser tratada como elegível.
