@@ -10,8 +10,9 @@ tags:
   - piloto
 related:
   - "[[00-Hub-Rouanet]]"
-  - "[[02-Biomas-Regioes-e-Tiers]]"
-  - "[[03-Piloto-Cerrado]]"
+  - "[[../02-game-design/Biomas-Regioes-e-Tiers]]"
+  - "[[../02-game-design/Piloto-Cerrado]]"
+  - "[[../02-game-design/Continente-Royal-Candalor]]"
   - "[[../05-decisoes/ADR-0001-Foco-Economico]]"
 ---
 
@@ -32,7 +33,7 @@ Determinar se o piloto do MMO pode ser estruturado como projeto cultural aderent
 - Itens possuem ciclo de vida e reparo não deve gerar vida útil infinita.
 - PvE pode fornecer recursos raros usados no crafting.
 - Mercado e loot devem permanecer conectados à produção dos jogadores sempre que fizer sentido.
-- O mundo completo é organizado em poucos ambientes amplos, cada um ancorado por uma cidade-base.
+- O mundo completo utiliza cinco famílias mecânicas e seis identidades visuais; os polos regionais e a capital Candalor são definidos exclusivamente no game design canônico.
 - Tier é independente de ambiente.
 - Fase atual: definição e desenvolvimento do piloto.
 
@@ -46,7 +47,7 @@ Hipótese atual:
 
 Arquitetura ambiental:
 
-1. Floresta — Amazônia/Norte;
+1. Floresta — Amazônia/Norte e Mata Atlântica/Leste-Sudeste (duas identidades visuais);
 2. Cerrado — Centro-Oeste;
 3. Alagado — Pantanal;
 4. Árido — Caatinga;
@@ -58,9 +59,9 @@ O piloto não deve implementar os cinco ambientes.
 
 Recorte preferencial:
 
-> **Cidade-base do Cerrado + território Cerrado em múltiplos tiers + core loop econômico mínimo.**
+> **Uma cidade operacional do Cerrado (a definir) + território Cerrado em múltiplos tiers + core loop econômico mínimo.**
 
-O restante do continente existe como visão de expansão e coerência de universo.
+O restante do continente existe como visão de expansão e coerência de universo. Este memorando **não decide** cidade, topologia, tier, zona ou bioma; apenas referencia os documentos canônicos do jogo.
 
 ## 5. Hipótese de enquadramento
 
