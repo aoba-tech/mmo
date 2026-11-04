@@ -10,6 +10,7 @@ tags:
   - tiers
 related:
   - "[[Biomas-Regioes-e-Tiers]]"
+  - "[[Continente-Royal-Candalor]]"
   - "[[Core-Loop]]"
   - "[[Economia-Viva]]"
   - "[[../01-visao/Visao-do-Jogo]]"
@@ -27,7 +28,7 @@ Construir a menor experiência jogável capaz de demonstrar a identidade do MMO 
 
 O piloto deve conter:
 
-- **1 cidade-base** no ambiente Cerrado;
+- **1 cidade-base operacional** no ambiente Cerrado; a escolha entre Candalor, Ipê ou um polo específico do piloto está **A DEFINIR**;
 - **1 tipo principal de ambiente**: Cerrado;
 - múltiplos tiers suficientes para demonstrar progressão;
 - recursos básicos de coleta;
@@ -48,7 +49,7 @@ O piloto deve conter:
 
 ## Progressão conceitual
 
-A quantidade final de tiers do piloto ainda é **A DEFINIR**.
+A quantidade final de tiers, cores de zona e mapas do piloto ainda é **A DEFINIR**. A referência territorial do continente é Blue T2–T5, Yellow T5–T6 e Red T5–T7; isso **não** significa que todas essas zonas serão implementadas no MVP.
 
 ```text
 Cidade-base
@@ -123,3 +124,7 @@ Novo motivo para sair da cidade
 ## Critério de sucesso
 
 > **O piloto é bem-sucedido quando o Cerrado, o tier e o ciclo econômico formam uma experiência simples, divertida e repetível, mesmo antes da existência do restante do continente.**
+
+## Gate territorial antes da implementação
+
+Definir e aprovar: (1) cidade inicial e sua relação com Candalor; (2) lista de mapas jogáveis, cada qual com bioma, tier e zona independentes; (3) arestas/portais de conexão; (4) caminhos seguros e riscos de retorno; (5) quais mapas e sistemas ficam fora do MVP. Não inferir o grafo definitivo da ilustração isométrica.
