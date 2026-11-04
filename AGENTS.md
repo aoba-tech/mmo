@@ -11,7 +11,7 @@ tags:
 related:
   - "[[README]]"
   - "[[docs/03-squads/Squad-Living-Economy]]"
-  - "[[docs/06-rouanet/00-Hub-Rouanet]]"
+  - "[[docs/02-game-design/Continente-Royal-Candalor]]"
 ---
 
 # AGENTS.md
@@ -24,9 +24,10 @@ Antes de executar tarefa relevante:
 
 1. ler `README.md`;
 2. consultar [[docs/01-visao/Visao-do-Jogo]] e [[docs/01-visao/Principios-de-Design]];
-3. consultar o documento canônico específico do tema;
-4. para análise do edital, consultar [[docs/06-rouanet/00-Hub-Rouanet]];
-5. distinguir explicitamente fato, hipótese, proposta, decisão e item a validar.
+3. para assuntos de mapa, bioma, tier, zonas e cidades, consultar [[docs/02-game-design/Continente-Royal-Candalor]] e [[docs/02-game-design/Biomas-Regioes-e-Tiers]];
+4. consultar o documento canônico específico do tema;
+5. **somente quando a tarefa for sobre financiamento ou edital**, consultar [[docs/06-rouanet/00-Hub-Rouanet]];
+6. distinguir explicitamente fato, hipótese, proposta, decisão e item a validar.
 
 ## Método de atualização incremental
 
@@ -80,6 +81,10 @@ O Red Team não deve impedir a divergência; ele atua antes da convergência.
 - Não criar complexidade por realismo.
 - Não introduzir mercados intermediários como objetivo do projeto.
 - Não associar automaticamente bioma a tier.
+- No continente Royal, não introduzir Black Zone ou Red T8; usar Red T5–T7 como referência atual.
+- A cor Blue/Yellow/Red aparece apenas no ícone de tier do mapa, nunca como filtro sobre o terreno.
+- Candalor é a capital central no Cerrado, cercada por mapas Red, sem montanhas artificiais ao redor.
+- Não converter nomes periféricos provisórios em decisões sem aprovação.
 - Não expandir o piloto para representar o MMO completo.
 - Preservar compatibilidade com Markdown e Obsidian.
 
