@@ -3,6 +3,7 @@ tags:
   - mmo
   - obsidian
   - mapa
+  - piloto
 aliases:
   - MMO Design Vault
 related:
@@ -10,6 +11,7 @@ related:
   - "[[docs/01-visao/Principios-de-Design]]"
   - "[[docs/02-game-design/Core-Loop]]"
   - "[[docs/02-game-design/Biomas-Regioes-e-Tiers]]"
+  - "[[docs/02-game-design/Piloto-Cerrado]]"
   - "[[docs/02-game-design/Continente-Royal-Candalor]]"
   - "[[docs/03-squads/Squad-Living-Economy]]"
 status: draft
@@ -33,6 +35,7 @@ O piloto deve provar a experiência central do MMO antes de tentar representar t
 - [[docs/02-game-design/Economia-Viva]]
 - [[docs/02-game-design/Biomas-Regioes-e-Tiers]]
 - [[docs/02-game-design/Continente-Royal-Candalor]]
+- [[docs/02-game-design/Piloto-Cerrado]]
 - [[docs/02-game-design/Durabilidade-Reparo-e-Destruicao]]
 - [[docs/02-game-design/Mercado-Negro-e-Loot]]
 - [[docs/02-game-design/Recursos-Raros-de-Mobs]]
@@ -81,6 +84,10 @@ O Continente Royal de **Candalor** trabalha com cinco famílias mecânicas de am
 > **Ambiente define identidade. Tier define progressão. Zona define risco.**
 
 **Candalor** é a capital central, inspirada nos construtores de Brasília. O Cerrado central permanece visível e é cercado por mapas Red Zone (inclusive T5). No Royal não há Black Zone; cores de Blue, Yellow e Red aparecem **somente nos ícones de tier**, nunca como sombra sobre o terreno. Ver [[docs/02-game-design/Continente-Royal-Candalor]].
+
+## Piloto
+
+O recorte atual prioriza **uma cidade-base no Cerrado e múltiplos tiers do mesmo ambiente**, suficientes para demonstrar progressão, coleta, crafting, PvE, economia e ciclo de vida dos itens.
 
 ## Regra de design
 
