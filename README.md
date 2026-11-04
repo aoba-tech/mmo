@@ -44,6 +44,12 @@ O piloto deve provar a experiência central do MMO antes de tentar representar t
 - [[docs/04-red-team/Red-Team-RMT-Bots-Guildas]]
 - [[docs/05-decisoes/ADR-0001-Foco-Economico]]
 
+## Análises externas
+
+Análises de editais, financiamento ou enquadramento não definem o game design. Elas utilizam o projeto canônico como entrada.
+
+- [[docs/06-rouanet/00-Hub-Rouanet]] — análise independente de eventual enquadramento Rouanet.
+
 ## Pergunta central do jogo
 
 > Qual ciclo faz o mundo continuar vivo e faz o jogador querer repetir a experiência?
