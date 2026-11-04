@@ -12,6 +12,7 @@ related:
   - "[[docs/02-game-design/Core-Loop]]"
   - "[[docs/02-game-design/Biomas-Regioes-e-Tiers]]"
   - "[[docs/02-game-design/Piloto-Cerrado]]"
+  - "[[docs/02-game-design/Continente-Royal-Candalor]]"
   - "[[docs/03-squads/Squad-Living-Economy]]"
 status: draft
 ---
@@ -33,6 +34,7 @@ O piloto deve provar a experiência central do MMO antes de tentar representar t
 - [[docs/02-game-design/Core-Loop]]
 - [[docs/02-game-design/Economia-Viva]]
 - [[docs/02-game-design/Biomas-Regioes-e-Tiers]]
+- [[docs/02-game-design/Continente-Royal-Candalor]]
 - [[docs/02-game-design/Piloto-Cerrado]]
 - [[docs/02-game-design/Durabilidade-Reparo-e-Destruicao]]
 - [[docs/02-game-design/Mercado-Negro-e-Loot]]
@@ -76,15 +78,18 @@ com desejo, risco, conquista, apego e perda.
 
 ## Estrutura ambiental
 
-O MMO completo trabalha com cinco grandes ambientes conectados, cada um ancorado por uma cidade-base:
+O Continente Royal de **Candalor** trabalha com cinco famílias mecânicas de ambiente e seis identidades visuais, incluindo as duas florestas; a configuração definitiva dos polos regionais ainda está em discussão:
 
-- Floresta — Amazônia/Norte;
+- Floresta Amazônica — Norte/Noroeste;
+- Mata Atlântica — Leste/Sudeste (segunda identidade da família Floresta);
 - Cerrado — Centro-Oeste;
 - Alagado — Pantanal;
 - Árido — Caatinga;
 - Frio — Sul + referências andinas/chilenas.
 
 > **Ambiente define identidade. Tier define progressão. Zona define risco.**
+
+**Candalor** é a capital central, inspirada nos construtores de Brasília. O Cerrado central permanece visível e é cercado por mapas Red Zone (inclusive T5). No Royal não há Black Zone; cores de Blue, Yellow e Red aparecem **somente nos ícones de tier**, nunca como sombra sobre o terreno. Ver [[docs/02-game-design/Continente-Royal-Candalor]].
 
 ## Piloto
 
