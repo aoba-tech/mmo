@@ -14,6 +14,7 @@ related:
   - "[[Core-Loop]]"
   - "[[Economia-Viva]]"
   - "[[Piloto-Cerrado]]"
+  - "[[Continente-Royal-Candalor]]"
 ---
 
 # Biomas, Regiões e Tiers
@@ -28,7 +29,7 @@ Essas três dimensões devem permanecer independentes.
 
 ## Estrutura macro do mundo
 
-O mundo completo utiliza **cinco tipos principais de ambiente**, cada um com uma cidade-base e territórios conectados às demais regiões.
+O mundo utiliza **cinco famílias mecânicas de ambiente**, com **seis identidades visuais**: Amazônia e Mata Atlântica compartilham a família Floresta. A organização atual do Continente Royal e a capital **Candalor** estão detalhadas em [[Continente-Royal-Candalor]]. A hipótese anterior de uma cidade-base por família permanece sujeita à definição do papel da capital e do polo Cerrado.
 
 | Ambiente | Referência principal | Identidade | Papel econômico inicial |
 |---|---|---|---|
@@ -38,11 +39,11 @@ O mundo completo utiliza **cinco tipos principais de ambiente**, cada um com uma
 | Árido | Caatinga | solo pedregoso, seca, vegetação espinhosa | minerais, fibras resistentes, recursos escassos |
 | Frio | Sul + Andes/Chile | campos frios, serras, neve, montanhas | metais raros, recursos de altitude, criação animal |
 
-Mata Atlântica e Pampas podem aparecer como variações visuais ou zonas de transição, sem criar novos tipos-base de terreno.
+**Mata Atlântica** é uma identidade florestal visual distinta, no leste/sudeste, compartilhando a família mecânica Floresta com a Amazônia. **Pampas** podem aparecer como variação ou transição, sem novo tipo-base.
 
-## Uma cidade-base por ambiente
+## Polos regionais e capital Candalor
 
-Cada região possui uma cidade-base que funciona como polo econômico, social e logístico.
+O modelo considera cinco polos regionais (nomes provisórios) e **Candalor**, capital central no Cerrado, adicional na representação atual. A configuração definitiva das cidades e o papel do polo Cerrado ainda precisam ser decididos. Cada polo regional funciona como centro econômico, social e logístico.
 
 ```text
 Cidade-base
@@ -60,17 +61,17 @@ A cidade não é apenas cenário. Ela ancora a economia daquela região.
 
 A geografia deve gerar circulação e comércio naturalmente.
 
-Exemplo conceitual:
+Exemplo conceitual atualizado (não é grafo final):
 
 ```text
-                    FLORESTA
-                       │
-                       │
-       ALAGADO ───── CERRADO ───── ÁRIDO
-                       │
-                       │
-                     FRIO
+     AMAZÔNIA (N/NW)        CAATINGA (NE)
+              \\              /
+               CERRADO / CANDALOR
+              /       |       \\
+     PANTANAL (SW)  FRIO (S)  MATA ATLÂNTICA (E/SE)
 ```
+
+Candalor é cercada por mapas Red Zone, sem relevo montanhoso artificial. A cor da zona deve aparecer apenas no ícone de tier do mapa; não se deve colorir o terreno.
 
 A topologia final pode mudar. O princípio é que os ambientes se conectem e criem rotas de deslocamento, risco, arbitragem e circulação de recursos.
 
@@ -87,10 +88,9 @@ Cerrado T4
 Cerrado T5
 Cerrado T6
 Cerrado T7
-Cerrado T8
 ```
 
-O mesmo princípio vale para as demais regiões, conforme balanceamento futuro.
+O mesmo princípio vale para as demais regiões, conforme balanceamento futuro. **No Continente Royal em discussão, os mapas representados vão de T2 a T7, sem Red T8 e sem Black Zone.** Referência atual: Blue T2–T5; Yellow T5–T6; Red T5–T7 (inclusive Red T5). Tier não determina sozinho a cor da zona: um T5 pode ter mais de uma classificação de risco. Ver [[Continente-Royal-Candalor]].
 
 ### Intensidade por tier
 
