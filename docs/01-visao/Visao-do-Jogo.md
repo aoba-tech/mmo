@@ -11,8 +11,9 @@ related:
   - "[[Principios-de-Design]]"
   - "[[../02-game-design/Core-Loop]]"
   - "[[../02-game-design/Economia-Viva]]"
-  - "[[../06-rouanet/02-Biomas-Regioes-e-Tiers]]"
-  - "[[../06-rouanet/03-Piloto-Cerrado]]"
+  - "[[../02-game-design/Biomas-Regioes-e-Tiers]]"
+  - "[[../02-game-design/Piloto-Cerrado]]"
+  - "[[../02-game-design/Continente-Royal-Candalor]]"
 status: draft
 ---
 
@@ -35,15 +36,15 @@ Criar um MMO sandbox onde o jogador entenda rapidamente o que fazer, mas descubr
 
 ## Estrutura do mundo
 
-O mundo completo utiliza cinco grandes tipos de ambiente inspirados em referências brasileiras e sul-americanas:
+O mundo completo utiliza cinco **famílias mecânicas** e seis **identidades ambientais visuais**, inspiradas em referências brasileiras e sul-americanas:
 
-1. Floresta — Amazônia/Norte;
+1. Floresta — Amazônia/Norte e Mata Atlântica/Leste-Sudeste (duas identidades visuais da mesma família);
 2. Cerrado — Centro-Oeste;
 3. Alagado — Pantanal;
 4. Árido — Caatinga;
 5. Frio — Sul + referências andinas/chilenas.
 
-Cada região possui uma cidade-base e se conecta às demais regiões.
+O modelo territorial atual prevê cinco polos regionais e **Candalor**, capital central no Cerrado. O papel de Ipê (polo Cerrado) frente à capital ainda está pendente; nomes periféricos são provisórios. O Continente Royal não possui Black Zone; Candalor é cercada por mapas Red T5–T7. A cor das zonas aparece apenas nos ícones de tier. Ver [[../02-game-design/Continente-Royal-Candalor]].
 
 A regra estrutural é:
 
@@ -77,4 +78,4 @@ O piloto deve demonstrar a essência do jogo usando **uma cidade-base e o Cerrad
 5. Perder, desgastar ou quebrar.
 6. Criar motivo para voltar ao mundo.
 
-Os outros quatro ambientes pertencem à visão do MMO completo e não devem ampliar artificialmente o escopo do piloto.
+As demais regiões pertencem à visão do MMO completo e não devem ampliar artificialmente o escopo do piloto.
