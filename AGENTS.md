@@ -26,7 +26,8 @@ Antes de executar tarefa relevante:
 2. consultar [[docs/01-visao/Visao-do-Jogo]] e [[docs/01-visao/Principios-de-Design]];
 3. para assuntos de mapa, bioma, tier, zonas e cidades, consultar [[docs/02-game-design/Continente-Royal-Candalor]] e [[docs/02-game-design/Biomas-Regioes-e-Tiers]];
 4. consultar o documento canônico específico do tema;
-5. distinguir explicitamente fato, hipótese, proposta, decisão e item a validar.
+5. **somente quando a tarefa for sobre financiamento ou edital**, consultar [[docs/06-rouanet/00-Hub-Rouanet]];
+6. distinguir explicitamente fato, hipótese, proposta, decisão e item a validar.
 
 ## Método de atualização incremental
 
