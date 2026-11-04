@@ -10,7 +10,8 @@ related:
   - "[[Visao-do-Jogo]]"
   - "[[../02-game-design/Core-Loop]]"
   - "[[../04-red-team/Red-Team-RMT-Bots-Guildas]]"
-  - "[[../06-rouanet/03-Piloto-Cerrado]]"
+  - "[[../02-game-design/Piloto-Cerrado]]"
+  - "[[../02-game-design/Continente-Royal-Candalor]]"
 status: draft
 ---
 
@@ -48,7 +49,7 @@ A identidade regional e a progressão devem permanecer independentes.
 
 ## 8. Poucos ambientes, identidades fortes
 
-O jogo completo parte de cinco ambientes amplos: Floresta, Cerrado, Alagado, Árido e Frio. Variações internas não devem multiplicar desnecessariamente os tipos-base de terreno.
+O jogo completo parte de cinco ambientes amplos: Floresta, Cerrado, Alagado, Árido e Frio. A Amazônia e a Mata Atlântica são duas identidades florestais distintas, sem criar uma sexta família mecânica. Variações internas não devem multiplicar desnecessariamente os tipos-base de terreno.
 
 ## 9. Cultura precisa fazer parte do mundo
 
@@ -65,3 +66,7 @@ Uma mecânica realista que não gera decisão interessante deve ser removida.
 ## 12. Evitar complexidade econômica artificial
 
 Não introduzir cadeias industriais ou mercados intermediários extensos apenas para aumentar profundidade aparente. A profundidade deve emergir das decisões dos jogadores.
+
+## 13. Geografia legível, risco nos ícones
+
+No Continente Royal, a paisagem deve refletir os biomas e suas transições naturais. Blue, Yellow e Red aparecem apenas na cor dos ícones de tier dos mapas, nunca como sombreamento do terreno. Candalor fica no Cerrado central, cercada por mapas Red T5–T7, sem Black Zone nem cordilheira artificial. A topologia detalhada ainda está a definir em [[../02-game-design/Continente-Royal-Candalor]].
